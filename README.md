@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 ![snake game](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 
