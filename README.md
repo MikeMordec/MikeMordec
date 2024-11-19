@@ -15,11 +15,8 @@ I'm a passionate developer with strong analytical and problem-solving skills, co
 ### 📊 GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=MikeMordec&show_icons=true&theme=radical)
 
-### 🎮 Snake Game
 ![Snake Game](https://raw.githubusercontent.com/Platane/snk/main/github-contribution-grid-snake.svg)
 
-### 📈 GitHub Activity Graph
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=MikeMordec&theme=github)
 
 
 
