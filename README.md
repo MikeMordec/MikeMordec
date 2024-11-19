@@ -15,9 +15,10 @@ I'm a passionate developer with strong analytical and problem-solving skills, co
 ![Stock Price Animation](https://github.com/MikeMordec/StockMarketSimulator/raw/main/stock_price_animation.gif)
 
 <p align="center">
-  <img src="https://i.gifer.com/A3IO.gif" width="300" />
-  <img src="https://i.gifer.com/RXi9.gif" width="300" />
+  <img src="https://i.gifer.com/A3IO.gif" width="400" />
+  <img src="https://i.gifer.com/RXi9.gif" width="400" />
 </p>
+
 
 <!--
 **MikeMordec/MikeMordec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
