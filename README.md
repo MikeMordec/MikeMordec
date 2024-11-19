@@ -1,10 +1,13 @@
 ## Hi there 👋
+![snake game](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
 
 
 
 
 <!--
 **MikeMordec/MikeMordec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![snake game](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 Here are some ideas to get you started:
 
