@@ -7,11 +7,10 @@ I'm a passionate developer with strong analytical and problem-solving skills, co
 - **Frontend**: React, HTML, CSS
 - **Backend**: Node.js, Express, Flask
 - **Cybersecurity**: Familiarity with security principles
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=MikeMordec.MikeMordec)
 
 ### 📊 GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=MikeMordec&show_icons=true&theme=radical)
-### 👀 Visitors
-![Visitor Count](https://badgen.net/github/visitors/MikeMordec/MikeMordec)
 
 
 
