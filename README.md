@@ -13,6 +13,7 @@ I'm a passionate developer with strong analytical and problem-solving skills, co
 ### 👀 Visitors
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=MikeMordec.MikeMordec)
 
+
 ![snake game](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 
