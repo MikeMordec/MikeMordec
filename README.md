@@ -1,8 +1,26 @@
-## Hello there 👋
-![snake game](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-![Visitor Counter](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat)
-## Thanks for visiting my profile 👋
-I’m always open to collaboration! 🚀
+## Hi there, I'm Mike Mordec 👋
+
+I'm a passionate developer with strong analytical and problem-solving skills, constantly looking for new challenges 🚀. I specialize in full-stack web development, cybersecurity, and have a background in nanotechnology. I enjoy building apps that solve real-world problems!
+
+### 🚀 Projects
+- [Portfolio Website](https://github.com/MikeMordec/Portfolio): My personal website.
+- [Task Manager](https://github.com/MikeMordec/TaskManager): A task management app.
+
+### 🛠️ Technologies I Use
+- **Languages**: C, C++, Python, Java, JavaScript, SQL, HTML, CSS, Flask, Scratch
+- **Frontend**: React, HTML, CSS
+- **Backend**: Node.js, Express, Flask
+- **Cybersecurity**: Familiarity with security principles
+
+### 📊 GitHub Stats
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=MikeMordec&show_icons=true&theme=radical)
+
+### 🎮 Snake Game
+![Snake Game](https://raw.githubusercontent.com/Platane/snk/main/github-contribution-grid-snake.svg)
+
+### 📈 GitHub Activity Graph
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=MikeMordec&theme=github)
+
 
 
 
