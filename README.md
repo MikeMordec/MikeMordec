@@ -1,5 +1,7 @@
 ## Hello there 👋
 ![snake game](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/yourusername?style=social)
 
 
 <!--
