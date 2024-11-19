@@ -1,6 +1,7 @@
 ## Hello there 👋
 ![snake game](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 ![Visitor Counter](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat)
+![Project GIF](https://media.giphy.com/media/your-gif-link.gif)
 
 
 <!--
