@@ -1,5 +1,4 @@
 ## Hi there 👋
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=MikeMordec&theme=react)
 
 
 
