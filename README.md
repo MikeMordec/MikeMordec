@@ -8,9 +8,6 @@ I'm a passionate developer with strong analytical and problem-solving skills, co
 - **Backend**: Node.js, Express, Flask
 - **Cybersecurity**: Familiarity with security principles
 
-
-![Stock Price Animation](https://github.com/MikeMordec/StockMarketSimulator/raw/main/stock_price_animation.gif)
-
 <p align="center">
   <img src="https://i.gifer.com/A3IO.gif" width="400" height="300" />
   <img src="https://i.gifer.com/RXi9.gif" width="400" height="300" />
