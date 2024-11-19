@@ -8,8 +8,7 @@ I'm a passionate developer with strong analytical and problem-solving skills, co
 - **Backend**: Node.js, Express, Flask
 - **Cybersecurity**: Familiarity with security principles
 
-### 📊 GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=MikeMordec&show_icons=true&theme=radical)
+
 ![Stock Price Animation](https://github.com/MikeMordec/StockMarketSimulator/raw/main/stock_price_animation.gif)
 
 <p align="center">
