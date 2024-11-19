@@ -17,7 +17,7 @@ I'm a passionate developer with strong analytical and problem-solving skills, co
 
 ![Stock Market Gif](https://i.gifer.com/A3IO.gif)     
 
-
+![Stock Market Gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3pramxtcG0zYno5dmw0c250bmU2ZXEwMWl2MjB0bHI2OGtzenNrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JtBZm3Getg3dqxK0zP/giphy-downsized-large.gif)
 
 <!--
 **MikeMordec/MikeMordec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
