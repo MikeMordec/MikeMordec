@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Hi there, I'm Jane Doe 👋
+# Hi there, I'm Mike Mordec 👋
 
 Welcome to my GitHub profile! Here's a fun little Snake game to enjoy while you're here.
 
