@@ -1,5 +1,4 @@
 ## Hi there, I'm Mike Mordec 👋
-![Snake Game](https://raw.githubusercontent.com/Platane/snk/main/github-contribution-grid-snake.svg)
 
 I'm a passionate developer with strong analytical and problem-solving skills, constantly looking for new challenges 🚀. I specialize in full-stack web development, cybersecurity, and have a background in nanotechnology. I enjoy building apps that solve real-world problems!
 
@@ -11,6 +10,7 @@ I'm a passionate developer with strong analytical and problem-solving skills, co
 
 ### 📊 GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=MikeMordec&show_icons=true&theme=radical)
+![snake game](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 
 
