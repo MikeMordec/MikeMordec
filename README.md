@@ -1,6 +1,6 @@
 ## Hello there 👋
 ![snake game](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Visitor Counter](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat)
 
 
 <!--
