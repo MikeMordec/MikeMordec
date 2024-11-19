@@ -14,7 +14,10 @@ I'm a passionate developer with strong analytical and problem-solving skills, co
 ### 🐍 Snake Game
 ![snake game](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 ![Stock Price Animation](https://github.com/MikeMordec/StockMarketSimulator/raw/main/stock_price_animation.gif)
-
+<p align="center">
+  <img src="https://i.gifer.com/A3IO.gif" width="300" />
+  <img src="https://i.gifer.com/RXi9.gif" width="300" />
+</p>
 ![Stock Market Gif](https://i.gifer.com/A3IO.gif)                       ![Stock Market Gif](https://i.gifer.com/RXi9.gif)
 <!--
 **MikeMordec/MikeMordec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
