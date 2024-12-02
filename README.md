@@ -13,7 +13,10 @@ I'm a passionate developer with strong analytical and problem-solving skills, co
   <img src="https://i.gifer.com/RXi9.gif" width="400" height="300" /> 
   <img src="https://i.gifer.com/A3IP.gif" width="400" height="300" />
   <img src="https://i.gifer.com/7JbT.gif" width="400" height="300" />
-  
+  <p align="center">
+  <iframe src="https://s.tradingview.com/widgetembed/?frameElementId=tradingview_e3cfd&symbol=NASDAQ%3AAAPL" width="600" height="400" style="border: 0;" allowtransparency="true" frameborder="0"></iframe>
+</p>
+
 
 
 </p>
