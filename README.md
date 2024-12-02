@@ -13,7 +13,7 @@ I'm a passionate developer with strong analytical and problem-solving skills, co
   <img src="https://i.gifer.com/RXi9.gif" width="400" height="300" /> 
   <img src="https://i.gifer.com/A3IP.gif" width="400" height="300" />
   <img src="https://i.gifer.com/7JbT.gif" width="400" height="300" />
-  <img src="https://yourgifurl.com/stock-ticker.gif" width="600" />
+  <img src="https://yourgifurl.com/stock-ticker.gif" width="600" height="600" />
 
   
 
