@@ -8,13 +8,7 @@ I'm a passionate developer with strong analytical and problem-solving skills, co
 - **Backend**: Node.js, Express, Flask
 - **Cybersecurity**: Familiarity with security principles
 
-  ### 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
-
-### 🔭 My Projects:
-- [Stock Market Simulator](https://github.com/yourusername/StockMarketSimulator)
-- [Appliance Warehouse System](https://github.com/yourusername/ApplianceWarehouse)
-
+  
 <p align="center">
   <img src="https://i.gifer.com/A3IO.gif" width="400" height="300" />
   <img src="https://i.gifer.com/RXi9.gif" width="400" height="300" /> 
