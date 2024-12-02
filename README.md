@@ -11,6 +11,7 @@ I'm a passionate developer with strong analytical and problem-solving skills, co
 <p align="center">
   <img src="https://i.gifer.com/A3IO.gif" width="400" height="300" />
   <img src="https://i.gifer.com/RXi9.gif" width="400" height="300" />
+  <img https://gifdb.com/gif/stock-market-buy-sell-numbers-e53ldwdru9wgqu05.html?embed=true />
 </p>
 
 <!--
