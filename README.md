@@ -11,7 +11,7 @@ I'm a passionate developer with strong analytical and problem-solving skills, co
 <p align="center">
   <img src="https://i.gifer.com/A3IO.gif" width="400" height="300" />
   <img src="https://i.gifer.com/RXi9.gif" width="400" height="300" /> 
-  <iframe src="https://giphy.com/embed/JtBZm3Getg3dqxK0zP" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/JtBZm3Getg3dqxK0zP">via GIPHY</a></p>
+  <iframe src="https://giphy.com/embed/JtBZm3Getg3dqxK0zP" width="480" height="480" />
   
 
 
