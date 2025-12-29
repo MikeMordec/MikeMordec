@@ -10,8 +10,8 @@ I'm a passionate developer with strong analytical and problem-solving skills, co
 
   
 <p align="center">
-  <img src="https://i.gifer.com/A3IO.gif" width="500" height="400" />
-  <img src="https://i.gifer.com/A3IP.gif" width="500" height="400" />
+  <img src="https://i.gifer.com/A3IO.gif" width="600" height="500" />
+  <img src="https://i.gifer.com/A3IP.gif" width="600" height="500" />
  
   
  
